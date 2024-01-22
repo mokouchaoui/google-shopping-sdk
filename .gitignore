@@ -1,0 +1,9 @@
+/vendor/
+*.swp
+*.out
+*.exe
+*.log
+bin/
+*.test
+*.test.exe
+
